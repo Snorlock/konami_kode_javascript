@@ -17,5 +17,7 @@ Add the APIs you want the codes to go to.
 Existing codes
 --------------------
 qwerty1234
+
 ↑↑↓↓←→←→BA
+
 ←→↑↓ space space ctrl
